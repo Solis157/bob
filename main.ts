@@ -49,6 +49,3 @@ input.onButtonPressed(Button.A, function () {
     music.rest(music.beat(BeatFraction.Eighth))
     music.playTone(196, music.beat(BeatFraction.Double))
 })
-basic.forever(function () {
-	
-})
